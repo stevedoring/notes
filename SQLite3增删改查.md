@@ -1,4 +1,4 @@
-[TOC]
+[toc]
 
 ## SQLite3
 - 安装sqlite3
