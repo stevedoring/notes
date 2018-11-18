@@ -1,3 +1,5 @@
+[TOC]
+
 ## SQLite3
 - 安装sqlite3
 > windows:下载sqlite3，解压到自定义路径，将自定义路径加入PATH环境变量
